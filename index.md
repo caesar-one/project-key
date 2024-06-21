@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Soluzioni Innovative per il Risk Management
+title: Soluzioni per il Risk Management
 subtitle: Gestione Integrata dei Rischi e Programmi Assicurativi su Misura per la Tua Azienda
 cover-img: "/assets/img/safety2.png"
 ---
