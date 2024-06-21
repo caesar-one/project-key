@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gestione del Rischio Innovativa
+title: Gestione Rischi Innovativa
 subtitle: Gestione Integrata dei Rischi e Programmi Assicurativi su Misura per la Tua Azienda
 cover-img: "/assets/img/safety2.png"
 ---
@@ -13,3 +13,5 @@ Abbiamo allo studio una piattaforma software che grazie all'intelligenza artific
 - Studio di programmi assicurativi complessi 
 - Gestione di portafogli assicurativi e consulenza
 - Approntamento di sistemi di welfare aziendale
+
+Affidati a noi per una gestione integrata e proattiva del rischio, che garantisce sicurezza e serenità per la tua attività. Scopri come possiamo aiutarti a proteggere ciò che conta di più.
