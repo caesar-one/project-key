@@ -14,4 +14,4 @@ Abbiamo allo studio una piattaforma software che grazie all'intelligenza artific
 - Gestione di portafogli assicurativi e consulenza
 - Approntamento di sistemi di welfare aziendale
 
-Affidati a noi per una gestione integrata e proattiva del rischio, che garantisce sicurezza e serenità per la tua attività. Scopri come possiamo aiutarti a proteggere ciò che conta di più.
+Affidati a noi per una gestione integrata e proattiva del rischio, che garantisce sicurezza e serenità per la tua attività. Scopri come possiamo aiutarti a proteggere ciò che conta di più. Per maggiori informazioni scopri [cosa facciamo](/cosa-facciamo)!
