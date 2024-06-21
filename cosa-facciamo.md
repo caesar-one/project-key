@@ -1,6 +1,5 @@
 ---
 layout: page
-<!--title: About me-->
 subtitle: Cosa Facciamo
 cover-img: "/assets/img/safety.jpg"
 ---
